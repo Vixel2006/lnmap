@@ -15,7 +15,7 @@ but when the firewall isn't in the way it's fast. go brr. goroutines go brrrr.
 ## install
 
 ```sh
-git clone https://github.com/vixel/lnmap.git
+git clone https://github.com/Vixel2006/lnmap.git
 cd lnmap
 go build -o lnmap .
 ```
